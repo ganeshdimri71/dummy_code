@@ -3,6 +3,7 @@ import "./App.css";
 
 function App() {
     console.log("This is the message before the first commit");
+    console.log("This is the message before the second commit");
     return (
         <div className="App">
             <header className="App-header">
